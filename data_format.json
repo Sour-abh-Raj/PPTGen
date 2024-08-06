@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Slide Title 1",
+    "content": ["Content line 1", "Content line 2", "Content line 3"]
+  },
+  {
+    "title": "Slide Title 2",
+    "content": ["Content line 1", "Content line 2", "Content line 3"]
+  }
+  // Add more slides as needed
+]
